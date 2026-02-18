@@ -1,2 +1,2 @@
-# credit-scoring-system
+## CreditScoringSystem
 这是一个基于大语言模型的信贷信用评分系统的设计与实现
